@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Projeto CPS"
+             x:Class="APPcps.MainPage">
+
+    <StackLayout Padding="5"
+                 Orientation="Vertical"
+                 BackgroundColor="White">
+
+        <Frame BackgroundColor="#FF9623" Padding="24" CornerRadius="0">
+            <Label Text="Conversor de Medidas" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout BackgroundColor="#EEE" Padding="10">
+            <Label Text="Insira a medida" 
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center" />
+
+            <Entry x:Name="txt_medida" 
+                   Keyboard="Numeric" 
+                   HorizontalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold" />
+
+
+            <Label Text="O valor convertido é:" 
+               HorizontalOptions="Center"
+               FontSize="Large" />
+
+            <Label x:Name="txt_convert"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               TextColor="Black" />
+
+            <Button Text="Metros para Polegadas" x:Name="Btn_metrosPolegadas" Clicked="Btn_metrosPolegadas_Clicked" Padding="25"/>
+            <Button Text="Polegadas para Metros" x:Name="Btn_polegadasMetros" Clicked="Btn_polegadasMetros_Clicked" Padding="25"/>
+            <Button Text="Metros para Pés" x:Name="Btn_metrosPes" Clicked="Btn_metrosPes_Clicked" Padding="25"/>
+            <Button Text="Pés para Metros" x:Name="Btn_pesMetros" Clicked="Btn_pesMetros_Clicked" Padding="25"/>
+
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

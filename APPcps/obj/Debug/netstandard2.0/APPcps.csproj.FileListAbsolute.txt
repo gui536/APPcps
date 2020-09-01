@@ -1,0 +1,14 @@
+E:\Gui\VS2019\APPcps\APPcps\APPcps\bin\Debug\netstandard2.0\APPcps.deps.json
+E:\Gui\VS2019\APPcps\APPcps\APPcps\bin\Debug\netstandard2.0\APPcps.dll
+E:\Gui\VS2019\APPcps\APPcps\APPcps\bin\Debug\netstandard2.0\ref\APPcps.dll
+E:\Gui\VS2019\APPcps\APPcps\APPcps\bin\Debug\netstandard2.0\APPcps.pdb
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\APPcps.AssemblyInfoInputs.cache
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\APPcps.AssemblyInfo.cs
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\APPcps.csproj.CoreCompileInputs.cache
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\APPcps.dll
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\ref\APPcps.dll
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\APPcps.pdb
+E:\Gui\VS2019\APPcps\APPcps\APPcps\obj\Debug\netstandard2.0\APPcps.csprojAssemblyReference.cache
